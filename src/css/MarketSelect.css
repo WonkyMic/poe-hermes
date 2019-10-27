@@ -1,0 +1,4 @@
+.marketForm {
+  display: flex;
+  flex-direction:row;
+}
